@@ -1,0 +1,110 @@
+[
+    {
+        "themeName": "Classic",
+        "themeScheme": {
+            "bgColor": "#000",
+            "topBannerColor": "cyan",
+            "nowPlayingColor": "gold",
+            "trackTitleColor": "#1db954",
+            "trackArtistColor": "white",
+            "opacity": 60
+        }
+    },
+
+    {
+        "themeName": "Aqua",
+        "themeScheme": {
+            "bgColor": "#d1dded",
+            "topBannerColor": "#7D5167",
+            "nowPlayingColor": "#3B4856",
+            "trackTitleColor": "#000",
+            "trackArtistColor": "#895200",
+            "opacity": 40
+        }
+    },
+    
+    {
+        "themeName": "Forest",
+        "themeScheme": {
+            "bgColor": "#0f2414",
+            "topBannerColor": "#AAAAAA",
+            "nowPlayingColor": "#7FDBFF",
+            "trackTitleColor": "#fff",
+            "trackArtistColor": "#81a68a",
+            "opacity": 40
+        }
+    },
+
+    {
+        "themeName": "BW",
+        "themeScheme": {
+            "bgColor": "#000",
+            "topBannerColor": "#fff",
+            "nowPlayingColor": "#999",
+            "trackTitleColor": "#dbd9d9",
+            "trackArtistColor": "#4a4a4a",
+            "opacity": 20
+        }
+    },
+
+    {
+        "themeName": "Ocean",
+        "themeScheme": {
+            "bgColor": "#002535",
+            "topBannerColor": "#67ddf5",
+            "nowPlayingColor": "#22646e",
+            "trackTitleColor": "#bfd2d9",
+            "trackArtistColor": "#3b89ac",
+            "opacity": 40
+        }
+    },
+
+    {
+        "themeName": "Scarlet",
+        "themeScheme": {
+            "bgColor": "#ff4a40",
+            "topBannerColor": "#000",
+            "nowPlayingColor": "pink",
+            "trackTitleColor": "#fff",
+            "trackArtistColor": "brown",
+            "opacity": 40
+        }
+    },
+
+    {
+        "themeName": "Red",
+        "themeScheme": {
+            "bgColor": "#6b0000",
+            "topBannerColor": "#ff8c8c",
+            "nowPlayingColor": "#e37b9a",
+            "trackTitleColor": "pink",
+            "trackArtistColor": "hotpink",
+            "opacity": 40
+        }
+    },
+
+    {
+        "themeName": "Tan",
+        "themeScheme": {
+            "bgColor": "#d2b48c",
+            "topBannerColor": "black",
+            "nowPlayingColor": "#0e0e54",
+            "trackTitleColor": "dodgerblue",
+            "trackArtistColor": "blue",
+            "opacity": 40
+        }
+    },
+
+    {
+        "themeName": "Choc",
+        "themeScheme": {
+            "bgColor": "#1f1616",
+            "topBannerColor": "#fff",
+            "nowPlayingColor": "#7d5c5c",
+            "trackTitleColor": "white",
+            "trackArtistColor": "#ab9191",
+            "opacity": 40
+        }
+    }
+
+]

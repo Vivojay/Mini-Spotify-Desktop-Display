@@ -1,0 +1,21 @@
+[
+    {
+        "masterVolume": 100,
+        "dynamicColorScheme": 1,
+        "classicColorSchemeOnly": 0,
+        "colorSchemeFile": "Themes.json",
+        "colorScheme": "Red",
+        "alwaysOnTop": 0,
+        "overrideOpacity":{
+            "allow": 1,
+            "value": 80
+        }
+    },
+
+    {
+        "windowDimensions": "204x350",
+        "imageSize": 200,
+        "allowLogging": 1,
+        "startOnBoot": 1
+    }
+]

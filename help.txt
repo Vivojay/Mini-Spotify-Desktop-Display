@@ -1,0 +1,11 @@
+About
+
+=============
+Basic Info about the application
+=============
+
+How to change settings using "settings.json":
+Priority Order is as follows:
+    1. classicColorSchemeOnly
+    2. dynamicColorScheme
+    3. colorScheme

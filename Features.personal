@@ -1,0 +1,45 @@
+v2.0
+
+Features:
+    For the user (Appearance):
+        Play/Pause/Next/Prev
+        Artist Name
+        Song Name
+        Track Cover
+        Like/Unlike
+        Song/Album/Playlist On Repeat
+        BgColor = Color of Current Song
+        TextColor = Complement of Current [So that it is clearly visible]
+        Double-Click/Play-Pause Button on window = play/pause
+        Volume Control
+        Playback Progress
+
+    BTS:
+        Listening Habits from Scrobbled songs/artist [Get from both lastFM and Spotify...]
+
+Keep log of:
+    Artist,
+    Song Name,
+    Song ID,
+    Artist ID,
+    Date,
+    Time,
+    Genre,
+    Location of listener's device,
+    Established location of artist,
+
+Calculations:
+    Total Songs heard overall
+    Total Songs heard per Artist
+    For a given timeframe (E.g. Day, Month, Year, All Time):
+        Total Songs heard
+        Total Songs heard per Artist
+
+    Max Play Count of which:
+        Artist
+        Song
+
+    Average Time Spent Listening to (per day):
+        Artist
+        Song
+        Location's Songs/Artist
